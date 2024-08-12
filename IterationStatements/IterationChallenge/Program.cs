@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
+using System.Numerics;
+using System.Reflection.Metadata;
 
 namespace IterationStatements
 {
@@ -10,25 +9,11 @@ namespace IterationStatements
     {
         //LukeWarm Section: Create methods below
         //Write a method that will print to the console all numbers 1000 through - 1000
-        public static void PrintRangeOfNumbers()
+        public static void PrintRangeOfThousand()
         {
-            Console.WriteLine("Enter two numbers to get the range.");
-            Console.WriteLine("Number 1: ");
-            var userNum1 = Console.ReadLine();
-            Console.WriteLine("Number 2: ");
-            var userNum2 = Console.ReadLine();
-
-            if (int.TryParse(userNum1, out int rangeNum1) && int.TryParse(userNum2, out int rangeNum2))
+            for (int i = -1000; i <= 1000; i++)
             {
-                for (int i = rangeNum1; i <= rangeNum2; i++)
-                {
-                    Console.WriteLine(i);
-                }
-            }
-            else
-            {
-                Console.WriteLine("Invalid input. Try again.");
-                PrintRangeOfNumbers();
+                Console.WriteLine(i);
             }
         }
         //Write a method that will print to the console numbers 3 through 999 by 3 each time
@@ -51,7 +36,7 @@ namespace IterationStatements
         //Write a method to check whether a given number is even or odd
         public static bool IsEven(int a)
         {
-
+            
             if (a % 2 == 0)
             {
                 return true;
@@ -117,7 +102,7 @@ namespace IterationStatements
         //Write a method to display the multiplication table(from 1 to 12) of a given integer
         public static void MultiplyTable()
         {
-            int[] factors = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 };
+            int[] factors = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12};
 
             Console.WriteLine("Enter a number: ");
 
@@ -143,7 +128,7 @@ namespace IterationStatements
         //Call the methods to test them in the Main method below
         public static void Main(string[] args)
         {
-            PrintRangeOfNumbers();
+            //PrintRangeOfThousand();
             //IncrementByThree();
             //Console.WriteLine(IsEqual(5, 5));
             //Console.WriteLine(IsEven(5));
@@ -153,8 +138,11 @@ namespace IterationStatements
             //IsOldEnoughToVote();
             //WithinRange();
             //MultiplyTable();
-
+            
 
         }
     }
 }
+
+    
+

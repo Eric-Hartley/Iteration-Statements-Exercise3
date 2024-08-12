@@ -1,0 +1,15 @@
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\IterationChallenge\bin\Debug\net8.0\IterationChallenge.exe
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\IterationChallenge\bin\Debug\net8.0\IterationChallenge.deps.json
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\IterationChallenge\bin\Debug\net8.0\IterationChallenge.runtimeconfig.json
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\IterationChallenge\bin\Debug\net8.0\IterationChallenge.dll
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\IterationChallenge\bin\Debug\net8.0\IterationChallenge.pdb
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\IterationChallenge\obj\Debug\net8.0\IterationChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\IterationChallenge\obj\Debug\net8.0\IterationChallenge.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\IterationChallenge\obj\Debug\net8.0\IterationChallenge.AssemblyInfo.cs
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\IterationChallenge\obj\Debug\net8.0\IterationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\IterationChallenge\obj\Debug\net8.0\IterationChallenge.sourcelink.json
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\IterationChallenge\obj\Debug\net8.0\IterationChallenge.dll
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\IterationChallenge\obj\Debug\net8.0\refint\IterationChallenge.dll
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\IterationChallenge\obj\Debug\net8.0\IterationChallenge.pdb
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\IterationChallenge\obj\Debug\net8.0\IterationChallenge.genruntimeconfig.cache
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\IterationChallenge\obj\Debug\net8.0\ref\IterationChallenge.dll
