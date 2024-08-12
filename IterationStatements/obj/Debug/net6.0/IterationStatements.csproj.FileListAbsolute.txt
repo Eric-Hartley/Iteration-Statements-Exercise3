@@ -1,0 +1,5 @@
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\obj\Debug\net6.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfo.cs
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\obj\Debug\net6.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\obj\Debug\net6.0\IterationStatements.sourcelink.json
