@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Eric\\Desktop\\repos\\Iteration-Statements-Exercise3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50D1A68A-D869-46C9-A0F3-708635DAE5E4}|IterationStatements\\IterationStatements.csproj|c:\\users\\eric\\desktop\\repos\\iteration-statements-exercise3\\iterationstatements\\iterationchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50D1A68A-D869-46C9-A0F3-708635DAE5E4}|IterationStatements\\IterationStatements.csproj|solutionrelative:iterationstatements\\iterationchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50D1A68A-D869-46C9-A0F3-708635DAE5E4}|IterationStatements\\IterationStatements.csproj|c:\\users\\eric\\desktop\\repos\\iteration-statements-exercise3\\iterationstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D1A68A-D869-46C9-A0F3-708635DAE5E4}|IterationStatements\\IterationStatements.csproj|solutionrelative:iterationstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eric\\Desktop\\repos\\Iteration-Statements-Exercise3\\IterationStatements\\IterationChallenge\\Program.cs",
-              "RelativeDocumentMoniker": "IterationStatements\\IterationChallenge\\Program.cs",
-              "ToolTip": "C:\\Users\\Eric\\Desktop\\repos\\Iteration-Statements-Exercise3\\IterationStatements\\IterationChallenge\\Program.cs*",
-              "RelativeToolTip": "IterationStatements\\IterationChallenge\\Program.cs*",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAAAHYAAAALAAAA",
+              "DocumentMoniker": "C:\\Users\\Eric\\Desktop\\repos\\Iteration-Statements-Exercise3\\IterationStatements\\Program.cs",
+              "RelativeDocumentMoniker": "IterationStatements\\Program.cs",
+              "ToolTip": "C:\\Users\\Eric\\Desktop\\repos\\Iteration-Statements-Exercise3\\IterationStatements\\Program.cs*",
+              "RelativeToolTip": "IterationStatements\\Program.cs*",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAJ0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T17:13:58.486Z",
+              "WhenOpened": "2024-08-12T22:40:19.036Z",
               "EditorCaption": ""
             }
           ]

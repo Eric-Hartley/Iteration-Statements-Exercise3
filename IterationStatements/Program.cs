@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IterationStatements
+namespace IterationStatements3
 {
     public class Program
     {
@@ -143,7 +143,7 @@ namespace IterationStatements
         //Call the methods to test them in the Main method below
         public static void Main(string[] args)
         {
-            PrintRangeOfNumbers();
+            //PrintRangeOfNumbers();
             //IncrementByThree();
             //Console.WriteLine(IsEqual(5, 5));
             //Console.WriteLine(IsEven(5));
